@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="main" targetName="main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d878bbc0-b60f-4397-8517-1019c5cb8164" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/04_sample1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiteMath.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShaderProgram.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShaderProgram.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake/Modules/FindGLM.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependencies/bin/glfw3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependencies/include/GLAD/KHR/khrplatform.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependencies/include/GLAD/glad/glad.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependencies/include/GLFW/glfw3.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependencies/include/GLFW/glfw3native.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependencies/lib/glfw3.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependencies/lib/glfw3dll.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glad.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shaders/fragment.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shaders/vertex.glsl" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>glGenVertexArrays</find>
+      <find>sdPlane</find>
+      <find>EstimateNormal</find>
+      <find>PhongIllumination</find>
+      <find>g_screenWidth</find>
+      <find>g_screenHeight</find>
+      <find>g_rayMatrix</find>
+      <find>fragColor</find>
+      <find>MAX_MARCHING_STEPS</find>
+      <find>MIN_DIST</find>
+      <find>MAX_DIST</find>
+      <find>g_bgColor</find>
+      <find>dist_func</find>
+      <find>phong_full</find>
+      <find>rayDirection</find>
+      <find>PhongContribForLight</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>scene</replace>
+      <replace>Surface</replace>
+      <replace>AmbientLight</replace>
+      <replace>Phong</replace>
+      <replace>PhongDiffuseSpecular</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eagTXmvIw751hEkury8kXgb5yx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GLSL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="language.cpp.clangd" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="main" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="main" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d878bbc0-b60f-4397-8517-1019c5cb8164" name="Default" comment="" />
+      <created>1550166309356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550166309356</updated>
+      <workItem from="1550166310774" duration="1124000" />
+      <workItem from="1550168689000" duration="7000" />
+      <workItem from="1550169103836" duration="285000" />
+      <workItem from="1550169394498" duration="22000" />
+      <workItem from="1550171292377" duration="16000" />
+      <workItem from="1550213924456" duration="54000" />
+      <workItem from="1550214570058" duration="51000" />
+      <workItem from="1550214780379" duration="162000" />
+      <workItem from="1550215067405" duration="212000" />
+      <workItem from="1550215603736" duration="116000" />
+      <workItem from="1550215922527" duration="31000" />
+      <workItem from="1550216408447" duration="218000" />
+      <workItem from="1550217214828" duration="1007000" />
+      <workItem from="1550253356274" duration="435000" />
+      <workItem from="1550351133695" duration="4835000" />
+      <workItem from="1550410898106" duration="678000" />
+      <workItem from="1550411704154" duration="1314000" />
+      <workItem from="1550419837884" duration="505000" />
+      <workItem from="1550926926843" duration="948000" />
+      <workItem from="1550928058905" duration="15000" />
+      <workItem from="1550928107236" duration="345000" />
+      <workItem from="1550928480298" duration="582000" />
+      <workItem from="1550929214671" duration="50846000" />
+      <workItem from="1551439141218" duration="324000" />
+      <workItem from="1551445214101" duration="93000" />
+      <workItem from="1551445528259" duration="10834000" />
+      <workItem from="1551459813029" duration="5029000" />
+      <workItem from="1551529017600" duration="19342000" />
+      <workItem from="1551612344943" duration="12000" />
+      <workItem from="1551633529394" duration="2375000" />
+      <workItem from="1551636807424" duration="15000" />
+      <workItem from="1551800006069" duration="17763000" />
+      <workItem from="1552044530282" duration="8525000" />
+      <workItem from="1552056601397" duration="1420000" />
+      <workItem from="1552060592352" duration="886000" />
+      <workItem from="1554410811572" duration="614000" />
+      <workItem from="1554414565838" duration="73000" />
+      <workItem from="1554414665774" duration="12000" />
+      <workItem from="1554414840274" duration="92000" />
+      <workItem from="1554415223625" duration="25000" />
+      <workItem from="1557836271724" duration="161000" />
+      <workItem from="1561398332100" duration="164000" />
+      <workItem from="1594565129432" duration="293000" />
+      <workItem from="1594565586708" duration="627000" />
+      <workItem from="1594566440242" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594565561242">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="184" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.808@0.23.1440.808" timestamp="1594565561242" />
+    <state width="1398" height="92" key="GridCell.Tab.0.bottom" timestamp="1594566455977">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="92" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1594566455977" />
+    <state width="1398" height="92" key="GridCell.Tab.0.center" timestamp="1594566455976">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="92" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1594566455976" />
+    <state width="1398" height="92" key="GridCell.Tab.0.left" timestamp="1594566455976">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="92" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1594566455976" />
+    <state width="1398" height="92" key="GridCell.Tab.0.right" timestamp="1594566455977">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="92" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1594566455977" />
+  </component>
+</project>
